@@ -36,7 +36,7 @@ Analytics Engineer with over 3 years of experience building and operating data-d
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="www.linkedin.com/in/martafdezgonzalez">
+  <a href="https://linkedin.com/in/martafdezgonzalez">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:martaf.gonzalez02@gmail.com">
