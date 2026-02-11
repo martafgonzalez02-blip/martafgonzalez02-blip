@@ -14,8 +14,7 @@ Analytics Engineer with over 3 years of experience building and operating data-d
 🛠️ Design cloud-native data models on GCP focused on pconsistency, and high availability for business.🛠️
 
 📈 Implement data quality and governance frameworks, automating validations and ingestion of 100K+ daily records to ensure trusted BI outputs.📈
-
-📍 Dublin, Ireland 📍  
+ 
 💡 Open to collaboration and new opportunities 💡
 
 ## 🛠️ Tech Arsenal
