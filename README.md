@@ -3,7 +3,7 @@
 # 👋 Welcome to Marta Fernandez's Profile!
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C026D3¢er=true&vCenter=true&width=285&lines=Analytics%10Engineer%10/%10Data%10Analyst" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C026D3¢er=true&vCenter=true&width=300&lines=Analytics%20Engineer" alt="Typing SVG" />
 </p>
 💫 About Me 💫
 
